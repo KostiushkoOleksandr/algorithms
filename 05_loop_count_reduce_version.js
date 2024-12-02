@@ -6,4 +6,4 @@
    const countReduce = (array) => array.reduce((count, next) => count += 1, 0);
 
    console.log(countReduce([5,8,11,13])) // 4
-   console.log(countReduce([]))// 0
+   console.log(countReduce([])) // 0
