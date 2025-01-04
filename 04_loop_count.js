@@ -16,6 +16,5 @@
 
     return result;
  }
-
   console.log(countLoop([3,5,8,11])) //4
   console.log(countLoop([])) // 0
