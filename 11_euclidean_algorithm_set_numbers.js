@@ -18,7 +18,7 @@ const gcdOfSet = set => {
   newArr.map(el => {
     result = gcdOfTwo(result, el);
   });
-
+  
   return result;
 };
 
