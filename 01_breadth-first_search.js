@@ -39,5 +39,4 @@ const search = name => {
   }
   return false;
 };
-
 search("you"); // thom is a mango seller!
